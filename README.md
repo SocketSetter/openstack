@@ -10,5 +10,3 @@ The paper explores the fascinating realm of designing a small-scale and failure-
 
 Explore the paper for insights into making cloud infrastructure more accessible and efficient. Whether you're a cloud administrator or simply curious about cloud technologies, this repository is your gateway to a more resilient cloud future. ⚙️☁️
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
